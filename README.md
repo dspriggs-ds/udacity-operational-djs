@@ -18,7 +18,12 @@ Last we set the model up for consumption through deployment:
 
 
 ## Key Steps
-*TODO*: Write a short description of the key steps. Remember to include all the screenshots required to demonstrate key steps. 
+The key steps in this process are the configuration of the logging and App Insights
+![](images/Show_App_Insights_Enabled.png)
+![](images/Show_logging_running.png)
+and the provisioning of service principal for secure access to the model.
+![](images/configure_service_principal.png)
+
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
