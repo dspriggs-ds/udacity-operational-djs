@@ -8,12 +8,18 @@ This project is part of the Udacity Azure ML Nanodegree. In this project, our go
 
 ## Key Steps
 ### Ingestion of data
+We need to have the data ingested to begin to have the model begin gain insights and train.
+
 ![](images/Load_BankmarketingData.png)
 
 ### Configuration of a Azure Service Principal
+Using the service principal, provides control over which resources can be accessed and at which level. For security reasons, it's always recommended to use service principals with automated tools rather than allowing them to log in with a user identity.
+
 ![](images/configure_service_principal.png)
 
 ### Configuration of Application Insights
+ Application will aid in detecting endpoint and endpoint performance anomalies. 
+ 
 ![](images/Show_App_Insights_Enabled.png)
 
 
