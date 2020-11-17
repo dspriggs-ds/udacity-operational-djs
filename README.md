@@ -27,4 +27,4 @@ Using the service principal, provides control over which resources can be access
 Screencast [here](https://youtu.be/U54iI7Eu4Ss)
 
 ## Standout Suggestions
-None
+One suggestion is to perform Exploratory Data Analysis on the dataset prior to  running AutoML.
